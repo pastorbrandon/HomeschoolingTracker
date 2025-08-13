@@ -4,8 +4,8 @@ const urlsToCache = [
   '/reports',
   '/settings',
   '/manifest.webmanifest',
-  '/icon-192.png',
-  '/icon-512.png',
+  '/icon-192.svg',
+  '/icon-512.svg',
 ];
 
 // Install event - cache static assets
